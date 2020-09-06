@@ -7,7 +7,7 @@ This process takes a lot of time and complicates things.
 
 The system offers the user possible exams inlay for all exams in a particular semester, the inlay will be created according to the constraints that the user has inputted into the system. The system will try to produce an optimal inlay as possible for the user - meaning, creating an inlay that will answer as many user constraints as possible.
 The system offers the user to enter constraints such as the difference in days between the exams. 
-To make it easy to represent the constraints within the system, was created a new language with which we can easily describe the constraints of the exams and check if the constraints are met or not for a particular inlay.
+To make it easy to represent the constraints within the system, we created a new language with which we can easily describe the constraints of the exams and check if the constraints are met or not for a particular inlay.
 For example, the constraint that describes the day difference is represented in our
 language as follows:
 x.id ! y.id > x.day DISTANCE   y.day >= 3
