@@ -14,3 +14,9 @@ x.id ! y.id > x.day DISTANCE   y.day >= 3
 
 To ensure that the system presents an optimal final inlay, we used a genetic algorithm, its goal is to optimize the inlay and select the best inlay from all the inlays that the system randomly created.
 The best inlay is the one that meets as many user constraints as possible.
+
+<img src = "images/mainScreen.png" width="400">  <img src = "images/semesterScreen.png" width="400"> 
+
+<img src = "images/inputScreen.png" width="400">  <img src = "images/waitingScreen.png" width="400"> 
+
+<img src = "images/inlayScreen.png" width="400">   <img src = "images/diagram.PNG" width="400">
