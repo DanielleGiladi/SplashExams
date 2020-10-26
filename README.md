@@ -1,4 +1,4 @@
-# A-system-for-assiging-exams
+#Exam Scheduling system
 The project focuses on creating an automated exam inlay system.
 The system finds an inlay within a few minutes, optimizes the inlay operation time.
 
