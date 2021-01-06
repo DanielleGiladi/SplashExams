@@ -1,9 +1,17 @@
 
-The project focuses on creating an automated exam inlay system.
-The system finds an inlay within a few minutes, optimizes the inlay operation time.
+What the problem?
 
-Today, the system that my college is using is not automated and exam inlay is created in the following matter: the user embeds all of his exams manually, and to do so the user has to go over all of the exams one by one and place them by hand while taking into account other exams and the constraints between them. 
-This process takes a lot of time and complicates things.
+Scheduling exams takes way too long...
+It's done manually, and it takes weeks to get an initial schedule from the exams department.
+Today the way to scheduling exams is done manually by the exams department.
+
+SplashExams designed to save a huge amount of time and automatically schedule exams in seconds.
+
+The challenge of the system is to consider different constraints, some of which are mandatory and some have to be prioritized by different criteria, such as exams period and the number of days between exams.
+
+ SplashExams receives the requirements from the user and automatically calculates scheduling that meets as many constraints as possible.
+
+SplashExams creates scheduling in seconds and optimizes the current scheduling time over 90% relative to manual work.
 
 The system offers the user possible exams inlay for all exams in a particular semester, the inlay will be created according to the constraints that the user has inputted into the system. The system will try to produce an optimal inlay as possible for the user - meaning, creating an inlay that will answer as many user constraints as possible.
 The system offers the user to enter constraints such as the difference in days between the exams. 
